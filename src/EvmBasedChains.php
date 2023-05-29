@@ -78,7 +78,7 @@ class EvmBasedChains {
             "id" => 97,
             "hexId" => "0x61",
             "name" => "Binance Smart Chain Testnet",
-            "rpcUrl" => "https://data-seed-prebsc-1-s1.binance.org:8545/",
+            "rpcUrl" => "https://bsc-testnet.publicnode.com",
             "explorerUrl" => "https://testnet.bscscan.com/",
             "nativeCurrency" => [
                 "symbol" => "BNB",
