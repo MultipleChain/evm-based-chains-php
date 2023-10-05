@@ -80,7 +80,6 @@ class EvmBasedChains {
             "hexId" => "0x61",
             "name" => "BNB Chain Testnet",
             "rpcUrl" => "https://bsc-testnet.publicnode.com",
-            "wsUrl" => "wss://ws-nd-995-258-592.p2pify.com/125dfcd45140ad15911079840c5325ad",
             "explorerUrl" => "https://testnet.bscscan.com/",
             "nativeCurrency" => [
                 "symbol" => "BNB",
@@ -92,7 +91,6 @@ class EvmBasedChains {
             "hexId" => "0xa869",
             "name" => "Avalanche FUJI C-Chain Testnet",
             "rpcUrl" => "https://api.avax-test.network/ext/bc/C/rpc",
-            "wsUrl" => "wss://ws-nd-455-905-634.p2pify.com/6391d49e37bb671756732c155bedbd71/ext/bc/C/ws",
             "explorerUrl" => "https://cchain.explorer.avax-test.network",
             "nativeCurrency" => [
                 "symbol" => "AVAX",
